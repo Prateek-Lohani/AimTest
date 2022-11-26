@@ -3,6 +3,7 @@ p{
 	//font-weight:bold;
 	text-align:center;
 	font-family:fantasy;
+	background-color:#845BB3;
 }
 
 p span{
@@ -20,4 +21,8 @@ display:none;
 position:relative;
 top:100px;
 left:200px;
+}
+
+body{
+background-color:#494d5f;
 }
