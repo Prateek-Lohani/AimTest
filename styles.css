@@ -1,15 +1,21 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
 p{
 	font-size:20px;
-	font-weight:bold;
+	
 	text-align:center;
-	//font-family:fantasy;
+	font-family:fantasy;
 	background-color:#845BB3;
 }
 
 p span{
 	color:#a0d2eb;
 	text-decoration:none;
-	
+
 }
 
 #shape{
@@ -19,10 +25,13 @@ background-color:red;
 border-radius:80%;
 display:none;
 position:relative;
-top:100px;
-left:200px;
+top:1%;
+left:2%;
 }
 
 body{
 background-color:#494d5f;
+width: 100vw;
+height:100vh;
+overflow: hidden;
 }
